@@ -1,0 +1,53 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.userprefs
+.DS_Store
+.attach_pid*
+
+# Flutter/Dart build files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+
+# Android build files
+android/build/
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+*.apks
+*.asar
+*.asb
+*.jar
+*.so
+*.hprof
+local.properties
+key.properties
+
+# iOS build files
+ios/build/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/Flutter/
+ios/Runner.xcodeproj/
+
+# Compiled files from any language
+*.o
+*.a
+*.so
+*.dll
+*.class
+*.dill
+
+# Log files
+*.log
+
+# OS-generated files
+._*
+Thumbs.db
